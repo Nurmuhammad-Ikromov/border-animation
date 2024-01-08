@@ -16,8 +16,8 @@ body {
     position: relative;
     width: 300px;
     height: 400px;
-    background-color: dodgerblue;
     border-radius: 16px;
+    background-color: dodgerblue;
     overflow: hidden;
     display: flex;
     align-items: center;
